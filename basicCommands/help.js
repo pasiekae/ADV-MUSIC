@@ -22,7 +22,7 @@ module.exports = {
       
         {
           name: '▶️  Basic',
-          value: '`avatar`, `owner`, `support`, `invite`, `userinfo`',
+          value: '`avatarlegendaanga`, `frankfuterka`, `support`, `invite`, `userinfo`',
           inline: true,
         },
        
@@ -33,8 +33,8 @@ module.exports = {
         },
       
         {
-          name: '▶️  Fun',
-          value: ' `ascii`, `joke`, `roll`',
+          name: '▶️  Zabawa',
+          value: ' `zabawa`, `gra`, `teatr`',
           inline: true,
         },
       
@@ -45,14 +45,14 @@ module.exports = {
         },
       
         {
-          name: '▶️  Anime',
-          value: '`<prefix>animecommands for more info`',
+          name: '▶️  Zydzi',
+          value: '`<prefix>zydzicommands for more info`',
           inline: true,
         },
      
         {
           name: '▶️  Utility',
-          value: '`kick`, `ban`, `serverinfo`,`userinfo`, `clear`',
+          value: '`zydzi`, `sperma`, `kiracwel`,`takjadlemgowno`, `jedenrazspermepilemtylko`',
           inline: true,
         }
       )
@@ -61,19 +61,14 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.youtube.com/@sedziborowotv1064')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/xQF9f9yUEM')
+      .setURL('https://discord.gg/NxsyaWgQ')
       .setStyle(ButtonStyle.Link);
 
-    const button3 = new ButtonBuilder()
-      .setLabel('Code')
-      .setURL('https://github.com/GlaceYT')
-      .setStyle(ButtonStyle.Link);
-      
     const row = new ActionRowBuilder()
       .addComponents(button1, button2, button3);
     
