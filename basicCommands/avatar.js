@@ -23,7 +23,6 @@ module.exports = {
 
 /*
 
-
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
 ║  ## zrobione przez wyjebka typu blik kto ma wiedziec ten wie           ║                                     
@@ -32,6 +31,5 @@ module.exports = {
 ║  ## valorant montage moje : https://www.youtube.com/@pasiekae2890      ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
-
 
 */
